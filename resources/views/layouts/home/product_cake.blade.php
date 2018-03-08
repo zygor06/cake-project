@@ -4,7 +4,7 @@
         <div class="product-tittle">
             <img alt="Cake-Purple" src="{{asset('images/cake-purple.png')}}">
             <h2>
-                Produto
+                Produtos
             </h2>
         </div>
         <!-- Product Content -->
@@ -26,7 +26,7 @@
                             <div class="bottom-product-abs blue-dot">
                                 <div class="button-cake">
                                     <div class="blue-button-cake">
-                                        <button class="button-d-cake blue-button-cake">Buy</button>
+                                        <button class="button-d-cake blue-button-cake">Comprar</button>
                                     </div>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@
                             <div class="bottom-product-abs pink-dot">
                                 <div class="button-cake">
                                     <div class="blue-button-cake">
-                                        <button class="button-d-cake pink-button-cake">Buy</button>
+                                        <button class="button-d-cake pink-button-cake">Comprar</button>
                                     </div>
                                 </div>
                             </div>
@@ -84,7 +84,7 @@
                             <div class="bottom-product-abs orange-dot">
                                 <div class="button-cake">
                                     <div class="blue-button-cake">
-                                        <button class="button-d-cake orange-button-cake">Buy</button>
+                                        <button class="button-d-cake orange-button-cake">Comprar</button>
                                     </div>
                                 </div>
                             </div>

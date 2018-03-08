@@ -108,19 +108,19 @@
             <div class="col-sm-4">
                 <ul class="list-link-home">
                     <li>
-                        <a href="shop.html">Shop</a>
+                        <a href="{{url('loja')}}">Loja</a>
                     </li>
                     <li>
-                        <a href="gallery.html">Gallery</a>
+                        <a href="{{url('galeria')}}">Galeria</a>
                     </li>
                     <li>
-                        <a href="privacy-policy.html">Privacy Policy</a>
+                        <a href="{{url('politicas')}}">Políticas de Privacidade</a>
                     </li>
                     <li>
-                        <a href="terms-of-use.html">Terms Of Use</a>
+                        <a href="{{url('termos')}}">Termos de Uso</a>
                     </li>
                     <li>
-                        <a href="blog-center.html">Blog</a>
+                        <a href="{{url('blog')}}">Blog</a>
                     </li>
                 </ul>
             </div>

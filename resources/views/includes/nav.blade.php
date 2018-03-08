@@ -36,57 +36,45 @@
                             Blog
                         </li>
                         <li>
-                            <a href="blog.html">Blog Left Content</a>
-                        </li>
-                        <li>
-                            <a href="blog-right-content.html">Blog Right Content</a>
-                        </li>
-                        <li>
-                            <a href="blog-center.html">Blog Center</a>
+                            <a href="{{url('blog')}}">Blog</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
                     <ul class="list-mega">
                         <li class="bottom-red-border">
-                            Gallery
+                            Galeria
                         </li>
                         <li>
-                            <a href="gallery.html">Gallery 3 Column</a>
-                        </li>
-                        <li>
-                            <a href="gallery-4-column.html">Gallery 4 Column</a>
-                        </li>
-                        <li>
-                            <a href="gallery-dot.html">Gallery With Text</a>
+                            <a href="{{url('galeria')}}">Galeria com texto</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
                     <ul class="list-mega">
                         <li class="bottom-red-border">
-                            OTHER PAGEs
+                            Outras Páginas
                         </li>
                         <li>
-                            <a href="chart-page.html">Chart Page</a>
+                            <a href="{{url('tabela')}}">Tabelas</a>
                         </li>
                         <li>
-                            <a href="product-details-page.html">Product Details</a>
+                            <a href="{{url('detalhes')}}">Detalhes</a>
                         </li>
                         <li>
-                            <a href="privacy-policy.html">Privacy Policy</a>
+                            <a href="{{url('politica')}}">Politicas de Privacidade</a>
                         </li>
                         <li>
-                            <a href="terms-of-use.html">Terms Of Use</a>
+                            <a href="{{url('termos')}}">Termos de Uso</a>
                         </li>
                         <li>
-                            <a href="404.html">404</a>
+                            <a href="{{url('404')}}">404</a>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="div text-center">
-                <button class="btn btn-pink-cake mar-top-20 close-menu">Close Themes</button>
+                <button class="btn btn-pink-cake mar-top-20 close-menu">Fechar lista</button>
             </div>
         </div>
     </div>

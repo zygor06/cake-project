@@ -1,5 +1,7 @@
 @extends('layouts.default')
 
+@section('title')Loja@stop
+
 @section('header')
 
     @include('layouts.loja.header')

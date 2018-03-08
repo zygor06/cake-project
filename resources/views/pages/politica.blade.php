@@ -1,0 +1,2 @@
+@section('title')Loja
+@stop

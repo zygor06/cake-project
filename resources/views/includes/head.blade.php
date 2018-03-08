@@ -4,7 +4,7 @@
     <meta content="Os melhores bolos do Distrito Federal" name="description">
     <meta content="" name="Hygor Dias">
     <link href="{{asset('images/favicon-32x32.png')}}" rel="shortcut icon">
-    <title>Cake's Dreams</title>
+    <title>@yield('title', 'Cake\'s Dreams')</title>
     <link href="{{asset('css/bootstrap.css')}}" rel="stylesheet">
     <link href="{{asset('css/font-family.css')}}" rel="stylesheet">
     <link href="{{asset('css/responsive.css')}}" rel="stylesheet">
@@ -16,4 +16,5 @@
     <link href="{{asset('css/global.css')}}" rel="stylesheet">
     <link href="{{asset('css/effect2.css')}}" rel="stylesheet" type="text/css">
     <script src="{{asset('js/modernizr.custom.js')}}"></script>
+    @yield('custom_head')
 </head>

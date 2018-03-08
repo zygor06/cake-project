@@ -5,7 +5,7 @@
             <div class="tittle-cake text-center">
                 <img alt="Cake-White" src="{{asset('images/cake-white.png')}}">
                 <h2>
-                    What We Can
+                    O que fazemos
                 </h2>
             </div>
         </div>

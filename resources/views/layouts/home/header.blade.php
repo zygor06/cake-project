@@ -11,7 +11,7 @@
         <div class="tittle-cake text-center pad-top-150">
             <div class="container">
                 <h2>
-                    Beautiful
+                    Deliciosos
                 </h2>
                 <h1>
                     CUPCAKES
@@ -26,4 +26,3 @@
             &nbsp;
         </div>
     </header>
-</section>

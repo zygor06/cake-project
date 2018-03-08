@@ -9,7 +9,7 @@
                     <div class="container">
                         <img alt="Cake-White" src="{{asset('images/cake-white.png')}}">
                         <h2>
-                            New's Cake
+                            Novidades
                         </h2>
                     </div>
                 </div>
@@ -19,7 +19,7 @@
                         <div class="col-sm-6 no-pad-right">
                             <div class="left-news">
                                 <h1>
-                                    CAKE <span>Wedding</span>
+                                    BOLO de <span>Casamento</span>
                                 </h1>
                             </div>
                             <div class="right-news">
@@ -42,7 +42,7 @@
                                         <a class="fancybox" data-fancybox-group="contentnews" href="{{asset('images/ice-cream.png')}}">
                                             <div class="wizz-effect wizz-orange">
                                                 <div class="wrap-info">
-                                                    Ice Cream
+                                                    Sorvete
                                                 </div>
                                             </div>
                                         </a>
@@ -56,7 +56,7 @@
                                         <a class="fancybox" data-fancybox-group="contentnews" href="{{asset('images/ice-cream-cake.png')}}">
                                             <div class="wizz-effect wizz-green">
                                                 <div class="wrap-info">
-                                                    Cake's Flavors
+                                                    Sabores diversificados
                                                 </div>
                                             </div>
                                         </a>
@@ -71,10 +71,10 @@
                                     <div>
                                         <span class="mar-right-10"><img alt="Quote" class="Quote" src="{{asset('images/quote.png')}}"></span>
                                         <p>
-                                            <span class="bold-font-lg">Adam Grilss, </span><span>&nbsp; CEO B </span>
+                                            <span class="bold-font-lg">Oswaldo Moreno, </span><span>&nbsp; Consultor </span>
                                         </p>
                                         <p>
-                                            That’s great product wonderfull place and cakes, so yummy this cake.
+                                            Este produto é maravilhoso, um dos melhores bolos que já comi.
                                         </p>
                                     </div>
                                     <div>

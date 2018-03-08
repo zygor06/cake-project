@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
-<!-- Mirrored from demo.codeopus.net/cakesdream/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Mar 2018 20:41:57 GMT -->
 @include('includes.head')
 <body class="demo-1">
 <div class="ip-container" id="ip-container">
@@ -17,7 +16,10 @@
             &nbsp;
         </div>
         <!-- Start Header Cake -->
-        @yield('header')
+        <section class="header-wrapper">
+            @yield('header')
+        </section>
+
         <!-- End Header Cake -->
         <!-- Start Content Cake -->
         @yield('content')

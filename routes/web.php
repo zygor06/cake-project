@@ -21,6 +21,10 @@ Route::get('loja', 'Site\LojaController@index');
 Route::get('blog', 'Site\BlogController@index');
 Route::get('galeria', 'Site\GaleriaController@index');
 Route::get('carrinho', 'Site\CarrinhoController@index');
+Route::get('politica', 'Site\SiteController@politica');
+Route::get('termos', 'Site\SiteController@termos');
+Route::get('404', 'Site\SiteController@404');
+
 
 
 

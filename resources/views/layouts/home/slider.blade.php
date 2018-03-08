@@ -5,7 +5,7 @@
                 <img alt="Cake-one" src="{{asset('images/cake-one.png')}}">
                 <div class="price-cake hidden-xs">
                     <p>
-                        $40
+                        R$5
                     </p>
                 </div>
             </div>

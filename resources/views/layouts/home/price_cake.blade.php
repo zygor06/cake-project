@@ -8,7 +8,7 @@
             <div class="container">
                 <img alt="Cake-White" src="{{asset('images/cake-white.png')}}">
                 <h2>
-                    Our Price
+                    Nossos Preços
                 </h2>
             </div>
         </div>
@@ -41,7 +41,7 @@
                             </li>
                         </ul>
                         <div class="price-btn price-purple-btn">
-                            Order
+                            Encomendar
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                             </li>
                         </ul>
                         <div class="price-btn price-pink-btn">
-                            Order
+                            Encomendar
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
                             </li>
                         </ul>
                         <div class="price-btn price-green-btn">
-                            Order
+                            Encomendar
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                             </li>
                         </ul>
                         <div class="price-btn price-blue-btn">
-                            Order
+                            Encomendar
                         </div>
                     </div>
                 </div>

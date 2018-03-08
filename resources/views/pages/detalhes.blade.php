@@ -1,0 +1,2 @@
+@section('title')Detalhes
+@stop

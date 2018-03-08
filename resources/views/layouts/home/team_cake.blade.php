@@ -3,7 +3,7 @@
         <div class="container">
             <img alt="Cake-Pink" src="{{asset('images/cake-pink.png')}}">
             <h2 class="pink-color">
-                Our Team
+                Nossa Equipe
             </h2>
         </div>
     </div>
@@ -58,21 +58,21 @@
         <div class="container">
             <img alt="Cake-Pink" src="{{asset('images/cake-pink.png')}}">
             <h2 class="pink-color">
-                Contact Us
+                Contate-nos
             </h2>
         </div>
     </div>
     <div class="container mar-top-20">
         <div class="col-sm-offset-3 col-sm-6">
             <div class="form-group">
-                <input class="form-control form-default-cakes" placeholder="Full Name" type="text">
+                <input class="form-control form-default-cakes" placeholder="Nome Completo" type="text">
             </div>
             <div class="form-group">
                 <input class="form-control form-default-cakes" placeholder="Email" type="email">
             </div>
-            <textarea class="form-control form-default-cakes" placeholder="Your Message"></textarea>
+            <textarea class="form-control form-default-cakes" placeholder="Sua mensagem"></textarea>
             <div class="form-group">
-                <button class="btn btn-lg btn-pink-cake btn-send mar-top-20">Send</button>
+                <button class="btn btn-lg btn-pink-cake btn-send mar-top-20">Enviar</button>
             </div>
         </div>
     </div>
