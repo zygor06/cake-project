@@ -1,4 +1,3 @@
-<section class="header-wrapper">
     <header class="wrap-header">
         <div class="top-absolute">
             <div class="top-header">

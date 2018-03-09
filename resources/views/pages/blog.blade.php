@@ -1,4 +1,3 @@
-
 @extends('layouts.default')
 
 @section('title')Blog

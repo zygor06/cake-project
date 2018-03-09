@@ -18,10 +18,8 @@ class CreatePostsTable extends Migration
             $table->string('titulo');
             $table->string('subtitulo');
             $table->string('texto');
-            $table->id('image_id');
+            $table->integer('image_id');
             $table->date('data');
-
-            $table->foreign('image_id')->references('id')->on('images');
 
             $table->timestamps();
         });

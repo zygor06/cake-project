@@ -29,7 +29,7 @@
                         </li>
                         <li>
                             <div class="center-sosmed">
-                                <p class="icon icon-behance">
+                                <p class="icon icon-">
                                     &nbsp;
                                 </p>
                             </div>
@@ -100,8 +100,9 @@
                     </li>
                 </ul>
                 <div class="clear"></div>
-                <p>
-                    Cookie apple pie donut gingerbread <br>sweet roll pudding topping
+                <p class="text-center">
+                    Encontre aqui os melhores cupcakes da<br>
+                    região e do entorno
                 </p>
             </div>
             <!-- Column -->
@@ -126,7 +127,7 @@
             </div>
         </div>
         <div class="logo-dn">
-            <img alt="Delip Nugraha" src="{{asset('images/dn.png')}}">
+            <a href="https://github.com/zygor06" target="_blank"><img alt="Hygor Christian" src="{{asset('images/hc.png')}}"></a>
         </div>
     </div>
 </footer>

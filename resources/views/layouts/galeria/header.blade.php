@@ -18,10 +18,10 @@
         <div class="container">
             Home /
             <h1>
-                Gallery
+                Galeria
             </h1>
             <h2>
-                Cake
+                Cake's
             </h2>
         </div>
     </div>

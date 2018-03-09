@@ -7,7 +7,7 @@
             <div class="col-sm-6">
                 <div class="tittle-chart-cake">
                     <h1 class="pink-color">
-                        Purple<span class="grey-color"><i>Cake</i></span>
+                        CUPCAKE<span class="grey-color"><i>Roxo</i></span>
                     </h1>
                 </div>
                 <ul class="star">
@@ -27,7 +27,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="icon-star-disable">
+                        <div class="icon-star-active">
                             &nbsp;
                         </div>
                     </li>
@@ -42,17 +42,17 @@
                 </ul>
                 <div class="tittle-chart-cake mar-top-10">
                     <h1 class="pink-color">
-                        $40
+                        R$6
                     </h1>
                 </div>
                 <p class="mar-top-10 mar-btm-20">
                     Toffee sugar plum halvah liquorice brownie gummies <br>chocolate bar muffin candy canes. Dessert jelly-o <br>tootsie roll jelly sesame snaps icing.
                 </p>
                 <form action="http://demo.codeopus.net/cakesdream/chart-page.html" class="btn-inline">
-                    <button class="btn btn-pink-cake mar-right-10">Add to Chart</button>
+                    <button class="btn btn-pink-cake mar-right-10">Adicionar</button>
                 </form>
                 <form action="http://demo.codeopus.net/cakesdream/product-details-page.html" class="btn-inline">
-                    <button class="btn btn-grey-cake">View Details</button>
+                    <button class="btn btn-grey-cake">Ver detalhes</button>
                 </form>
             </div>
         </div>

@@ -14,7 +14,7 @@
                 <img alt="Logo-Cupcakes" src="{{asset('images/logo-150.png')}}">
             </li>
             <li>
-                <a class="show-menu" href="javascript:void(0);">Lista</a>
+                <a class="show-menu" href="javascript:void(0);">Serviços</a>
             </li>
             <li>
                 <a href="{{url('blog')}}">Blog</a>
@@ -38,6 +38,27 @@
                         <li>
                             <a href="{{url('blog')}}">Blog</a>
                         </li>
+                        @auth
+                            <li>
+                                <a href="{{url('produtos/add')}}">Adicionar produto</a>
+                            </li>
+                            <li>
+                                <a href="{{url('post/add')}}">Adicionar post</a>
+                            </li>
+                            <li>
+                                <a href="{{url('categoria/add')}}">Adicionar categoria</a>
+                            </li>
+                            <li>
+                                <a href="{{ route('logout') }}"
+                                   onclick="event.preventDefault();
+                                             document.getElementById('logout-form').submit();">
+                                    Sair
+                                </a>
+                            </li>
+                            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                {{ csrf_field() }}
+                            </form>
+                        @endauth
                     </ul>
                 </div>
                 <div class="col-sm-4">
@@ -66,9 +87,6 @@
                         </li>
                         <li>
                             <a href="{{url('termos')}}">Termos de Uso</a>
-                        </li>
-                        <li>
-                            <a href="{{url('404')}}">404</a>
                         </li>
                     </ul>
                 </div>
